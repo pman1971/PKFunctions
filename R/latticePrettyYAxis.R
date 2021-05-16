@@ -14,6 +14,6 @@ latticePrettyYAxis <- function (lim, logsc = FALSE, at = NULL, ...)
   ans <- yscale.components.default(lim = lim, logsc = logsc,
                                    at = at, ...)
   xx = as.numeric(ans$left$labels$labels)
-  ans$left$labels$labels <- comprss(xx)
+  ans$left$labels$labels <- compressNumbers(xx)
   ans
 }
