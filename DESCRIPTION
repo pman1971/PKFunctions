@@ -1,9 +1,9 @@
 Package: PKFunctions
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Assists data preparation and plot creation
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Petros Koulouris
+Maintainer: The package maintainer <petros.koulouris@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
