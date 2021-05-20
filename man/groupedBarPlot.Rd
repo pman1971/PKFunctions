@@ -1,6 +1,6 @@
 \name{groupedBarPlot}
 \alias{groupedBarPlot}
-\title{Compress large numbers into readable format}
+\title{Transform dataframe and plot grouped barplot}
 \usage{
   groupedBarPlot<- function(DF, plotWithinGrp, plotAcrossGrp, transposeMatrix= FALSE)
 }
